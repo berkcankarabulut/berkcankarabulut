@@ -1,6 +1,6 @@
 # 🎮 Game Developer | Berkcan Karabulut  
 
-#Arcade Idle | Hybrid-Casual | Shooter
+Arcade Idle | Hybrid-Casual | Shooter
 
 🎯 I am a game developer with 5+ years of experience, specializing in game development, physics systems, performance optimization, and URP shaders.
 🛠️ I focus on developing games using Unity and C#, delivering smooth and optimized experiences.
