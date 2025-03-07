@@ -33,13 +33,17 @@
             </a>
             <br>
             <b>🎯 Wild Gunfighter West Sniper 🎯</b> 
+            <br>
+            <b>5M+ Download</b>
           </td>
           <td align="center">
             <a href="https://play.google.com/store/apps/details?id=com.hitman.agent.shooting&hl=en_US">
               <img src="https://play-lh.googleusercontent.com/ARndlkXOoOFz3FxtE5Lwlz9dydTWkJy8g4FeiP5ogK9W6WQsT0yPDd_1GlcANwIChWQ=w240-h480" width="150">
             </a>
             <br>
-            <b>🔫 Hitman Agent Shooting 🔫</b>
+            <b>🔫 Hitman Agent Shooting 🔫</b>     
+            <br>
+            <b>1M+ Download</b>
           </td>
           <td colspan="2" align="center">
             <a href="https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr">
