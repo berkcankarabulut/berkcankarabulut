@@ -8,7 +8,6 @@
       <ul> 
         <li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li> 
         <li>🛠️ Developed <b>50+ games</b> and contributed to <b>2 LiveOps games</b> and <b>1 Soft Launch game</b>.</li>
-        <li>🖌️ Creating <b>shaders</b> on <b>Unity</b>.</li>
         <li>🎮 I enjoy <b>thinking about and developing new games</b>.</li>  
       </ul>
      <p align="center">
