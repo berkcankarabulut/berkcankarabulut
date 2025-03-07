@@ -4,8 +4,8 @@
     <td align="left">
       <ul> 
         <li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li> 
-        <li>🛠️ Developed <b>50+ games</b> and contributed to <b>2 LiveOps games</b> and <b>1 Soft Launch game</b>.</li>
-        <li>🎮 I enjoy <b>thinking about and developing new games</b>.</li>  
+        <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b> & <b>1 Soft Launch game</b>.</li>
+        <li>🎮 I enjoy <b>researching, brainstorming, and developing new game ideas</b>.</li>
       </ul>
      <p align="center">
        <br>
@@ -23,7 +23,7 @@
     <td colspan="2" align="center">
       <table width="100%">
         <tr>
-          <td colspan="2" align="center"><h3>📱 On Live Games 📱</h3></td>
+          <td colspan="2" align="center"><h3>📱 Developed & Live Games 📱</h3></td>
           <td colspan="2" align="center"><h3>🌍 For Other Games 🌍</h3></td>
         </tr>
         <tr>
