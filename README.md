@@ -8,9 +8,8 @@
 
 ### 🚀 About Me  
 🎯 Game developer with **5+ years of experience**, specializing in **game development, physics systems, performance optimization, and URP shaders**.  
-🛠️ Focused on developing games using **Unity & C#**, delivering smooth and optimized experiences.  
-🔥 Contributed to the development of **2 LiveOps games**.  
-🎨 Creating shaders using **Shader Graph**, working on both **procedural effects** and **stylized/toony visuals**.  
+🛠️ Developed **50+ games** and contributed to the development of **2 LiveOps games**.  
+🖌️ Creating shaders using **Shader Graph**, working on both **procedural effects** and **stylized/toony visuals**.  
 
 ---
 
@@ -39,9 +38,9 @@
 ### 🔗 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/berkcan-karabulut-3ba121145/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="40px" />
   </a>
   <a href="https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr">
-    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Apple_Store_logo_2023.svg" alt="App Store" width="40px" />
   </a>
 </p>
