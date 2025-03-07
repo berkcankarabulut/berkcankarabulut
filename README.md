@@ -9,7 +9,7 @@ Arcade Idle | Hybrid-Casual | Shooter
 
 🔗 [LinkedIn](https://www.linkedin.com/in/berkcan-karabulut-3ba121145/)  
 
-📱 [App Store]([https://play.google.com/store/apps/details?id=com.mg.wild.gunfighter.west.sniper&hl=en_ZA](https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr))  
+📱 [App Store](https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr)  
 
 🎯 LiveOps Games:
 
