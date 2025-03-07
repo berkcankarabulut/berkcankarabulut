@@ -1,6 +1,3 @@
-
-<h2 align="center">Hi 👋, I'm Berkcan.<br>A Game Developer from Turkey</h2>   
-<br>
 <table align="center"> 
     <td align="left">
       <ul> 
