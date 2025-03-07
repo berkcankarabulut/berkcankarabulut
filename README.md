@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Berkcan</h1>
-<h3 align="center">A Game Developer from Turkey</h3>
+<h2 align="center">Hi 👋, I'm Berkcan.<br>A Game Developer from Turkey</br></h1>
+<h3 align="center"></h3>
  
 <h3>💫 About Me:</h3>
 🎯 Game developer with 5+ years of experience, specializing in game development, performance optimization, and URP shaders.<br>🛠️ Developed 50+ games and contributed to the development of 2 LiveOps games.<br>🖌️ Creating shaders on Unity. <br>🎮 I enjoy thinking about and developing new games.
