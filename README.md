@@ -9,12 +9,12 @@
 ### 🚀 About Me  
 🎯 Game developer with **5+ years of experience**, specializing in **game development, physics systems, performance optimization, and URP shaders**.  
 🛠️ Developed **50+ games** and contributed to the development of **2 LiveOps games**.  
-🖌️ Creating shaders using **Shader Graph**, working on both **procedural effects** and **stylized/toony visuals**.  
+🖌️ Creating shaders using **Shader Graph**.  
 
 ---
 
 ### 🎯 LiveOps Games  
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.hitman.agent.shooting&hl=en_US">
@@ -38,9 +38,9 @@
 ### 🔗 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/berkcan-karabulut-3ba121145/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LinkedIn_Logo_2023.png" alt="LinkedIn" width="40px" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" />
   </a>
   <a href="https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Apple_logo_black.svg" alt="App Store" width="40px" />
+    <img src="https://skillicons.dev/icons?i=apple" alt="App Store" width="40px" />
   </a>
 </p>
