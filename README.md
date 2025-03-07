@@ -38,9 +38,9 @@
 ### 🔗 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/berkcan-karabulut-3ba121145/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LinkedIn_Logo_2023.png" alt="LinkedIn" width="40px" />
   </a>
   <a href="https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Apple_Store_logo_2023.svg" alt="App Store" width="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Apple_logo_black.svg" alt="App Store" width="40px" />
   </a>
 </p>
