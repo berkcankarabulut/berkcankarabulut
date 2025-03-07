@@ -1,9 +1,7 @@
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <h3 align="center">Hi 👋, I'm Berkcan.<br>A Game Developer from Turkey</h3>   
-  </tr>
-  <tr>
+
+<h2 align="center">Hi 👋, I'm Berkcan.<br>A Game Developer from Turkey</h2>   
+<br>
+<table align="center"> 
     <td align="left">
       <ul> 
         <li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li> 
@@ -23,6 +21,7 @@
     </td>
   </tr> 
 </table>  
+<br>
 <table align="center">
   <tr>
     <td colspan="2" align="center"><h3>📱 On Live Games 📱</h3></td>
