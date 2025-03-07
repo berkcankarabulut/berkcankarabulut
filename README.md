@@ -16,7 +16,7 @@
   </p>
 </p>
 <hr>
-<h3 align="center">📱 On Live Apps 📱</h3>
+<h3 align="center">📱 On Live Games 📱</h3>
 <table align="center">
   <tr>
     <td align="center">
