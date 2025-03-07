@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3> 🌐 Developer Accounts:</h3>
+<h3> 🌐 My Developer Accounts:</h3>
 <p>
   <a href="https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr">
     <img src="https://skillicons.dev/icons?i=apple" alt="App Store" width="40px" />
