@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
  
 <h3>💫 About Me:</h3>
-🎯 Game developer with 5+ years of experience, specializing in game development, performance optimization, and URP shaders.<br>🛠️ Developed 50+ games and contributed to the development of 2 LiveOps games.<br>🖌️ Creating shaders on Unity. <br>🎮 I enjoy thinking about and developing new games.
+🎯 Game developer with 5+ years of experience, specializing in game development, performance optimization, and URP shaders.<br>🛠️ Developed 50+ games and contributed to the development of 2 LiveOps games and 1 Soft Launch game.<br>🖌️ Creating shaders on Unity. <br>🎮 I enjoy thinking about and developing new games.
 <img align="right" width=300px alt="WellDone" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE1bGR6ZzN6cmI1MXh1YmM4OGdqNTZybWkxNG9kYW4wcGtkdmt0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" />
 
 <h3>💻 My Main Focus:</h3>
