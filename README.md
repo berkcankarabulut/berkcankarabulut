@@ -7,8 +7,12 @@ Arcade Idle | Hybrid-Casual | Shooter
 🔥 I contributed to the development of 2 LiveOps games.
 🎨 I create shaders using Shader Graph, working on both procedural effects and stylized/toony visuals.
 
-🔗 LinkedIn
-📱 App Store
+🔗 [LinkedIn](https://www.linkedin.com/in/berkcan-karabulut-3ba121145/)  
+
+📱 [App Store]([https://play.google.com/store/apps/details?id=com.mg.wild.gunfighter.west.sniper&hl=en_ZA](https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr))  
+
 🎯 LiveOps Games:
-[![Agent Shooting](https://img.shields.io/badge/Agent_Shooting-Play_Store-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.hitman.agent.shooting&hl=en_US)  
-[![Wild Gunfighter](https://img.shields.io/badge/Wild_Gunfighter-Play_Store-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.mg.wild.gunfighter.west.sniper&hl=en_ZA)
+
+- [Agent Shooting](https://play.google.com/store/apps/details?id=com.hitman.agent.shooting&hl=en_US)  
+
+- [Wild Gunfighter](https://play.google.com/store/apps/details?id=com.mg.wild.gunfighter.west.sniper&hl=en_ZA)  
