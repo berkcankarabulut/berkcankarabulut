@@ -23,7 +23,7 @@
     <td colspan="2" align="center">
       <table width="100%">
         <tr>
-          <td colspan="2" align="center"><h3>📱 Developed & Live Games 📱</h3></td>
+          <td colspan="2" align="center"><h3>📱 Live Games 📱</h3></td>
           <td colspan="2" align="center"><h3>🌍 For Other Games 🌍</h3></td>
         </tr>
         <tr>
@@ -33,8 +33,6 @@
             </a>
             <br>
             <b>🎯 Wild Gunfighter West Sniper 🎯</b> 
-            <br>
-            <b>5M+ Download</b>
           </td>
           <td align="center">
             <a href="https://play.google.com/store/apps/details?id=com.hitman.agent.shooting&hl=en_US">
@@ -42,8 +40,6 @@
             </a>
             <br>
             <b>🔫 Hitman Agent Shooting 🔫</b>     
-            <br>
-            <b>1M+ Download</b>
           </td>
           <td colspan="2" align="center">
             <a href="https://apps.apple.com/tr/developer/berkcan-karabulut/id1503022996?l=tr">
