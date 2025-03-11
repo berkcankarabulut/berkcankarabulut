@@ -4,7 +4,7 @@
     <td align="left">
       <ul> 
         <li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li> 
-        <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b> & <b>1 Soft Launch game</b>.</li>
+        <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b>.</li>
         <li>🎮 I enjoy <b>researching, brainstorming, and developing new game ideas</b>.</li>
       </ul>
      <p align="center">
