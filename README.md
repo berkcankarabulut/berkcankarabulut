@@ -7,13 +7,15 @@
         <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b>.</li>
         <li>🎮 I enjoy <b>researching, brainstorming, and developing new game ideas</b>.</li>
       </ul>
-     <p align="center">
-       <br>
-      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-      <img src="https://img.shields.io/badge/Shader-5C2D91?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Shader">
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-    </p> 
+        <p align="center">
+          <br>
+          <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+          <img src="https://img.shields.io/badge/Shader-5C2D91?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Shader">
+          <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+          <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+          <img src="https://img.shields.io/badge/playfab-FF6C37?style=for-the-badge&logo=unity&logoColor=white" alt="PlayFab">
+          <img src="https://img.shields.io/badge/photon-0092E0?style=for-the-badge&logo=unity&logoColor=white" alt="Photon">
+        </p> 
     </td>
     <td align="right">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xuc3NraTZlaDVtcXRxYW9odDY2cXpoNzJmMm1odWt4N3FqeWs5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="250">
