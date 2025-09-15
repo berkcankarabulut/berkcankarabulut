@@ -4,10 +4,14 @@
   <tr>
     <td align="left">
       <ul> 
-        <li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li> 
-        <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b>.</li> 
-      </ul>
-        <p align="center">            
+           <br><li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li>
+          <br> <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b>.</li> 
+      </ul>     
+         <br>
+        <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcankarabulut&layout=compact&langs_count=6&theme=dark&card_width=400" alt="Top Langs" />
+        </p> 
+         <p align="center">            
           <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> 
           <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
           <img src="https://img.shields.io/badge/playfab-FF6C37?style=for-the-badge&logo=unity&logoColor=white" alt="PlayFab">
@@ -51,13 +55,6 @@
   </tr> 
   <tr>
     <td colspan="2" align="center">
-      <p>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcankarabulut&layout=compact&langs_count=6&theme=dark&card_width=400" alt="Top Langs" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <h3>🌐 Connect with me 🌐</h3>
       <p>
         <a href="https://www.linkedin.com/in/berkcan-karabulut-3ba121145/">
@@ -68,6 +65,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="50px" />
         </a>
       </p>
+      <br>
     </td>
   </tr>
 </table>
