@@ -1,20 +1,17 @@
 <h2 align="center">Hi 👋, I'm BERKCAN<br>A Game Developer from Turkey</h2>  
+
 <table align="center"> 
   <tr>
     <td align="left">
       <ul> 
         <li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li> 
-        <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b>.</li>
-        <li>🎮 I enjoy <b>researching, brainstorming, and developing new game ideas</b>.</li>
+        <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>2 LiveOps games</b>.</li> 
       </ul>
-        <p align="center">
-          <br>
-          <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-          <img src="https://img.shields.io/badge/Shader-5C2D91?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Shader">
-          <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+        <p align="center">            
+          <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> 
           <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
           <img src="https://img.shields.io/badge/playfab-FF6C37?style=for-the-badge&logo=unity&logoColor=white" alt="PlayFab">
-          <img src="https://img.shields.io/badge/photon-0092E0?style=for-the-badge&logo=unity&logoColor=white" alt="Photon">
+          <img src="https://img.shields.io/badge/photon-0092E0?style=for-the-badge&logo=unity&logoColor=white" alt="Photon">         
         </p> 
     </td>
     <td align="right">
@@ -52,6 +49,13 @@
       </table>
     </td>
   </tr> 
+  <tr>
+    <td colspan="2" align="center">
+      <p>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcankarabulut&layout=compact&langs_count=6&theme=dark&card_width=400" alt="Top Langs" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>🌐 Connect with me 🌐</h3>
