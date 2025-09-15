@@ -9,7 +9,7 @@
       </ul>     
          <br>
         <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcankarabulut&layout=compact&langs_count=6&theme=dark&card_width=400" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcankarabulut&layout=compact&langs_count=6&theme=dark&card_width=600" alt="Top Langs" />
         </p> 
          <p align="center">            
           <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> 
