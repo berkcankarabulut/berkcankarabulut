@@ -55,7 +55,7 @@
   </tr> 
   <tr>
     <td colspan="2" align="center">
-      <h3>🌐 Connect with me 🌐</h3>
+      <h3>🌐 Get in Touch 🌐</h3>
       <p>
         <a href="https://www.linkedin.com/in/berkcan-karabulut-3ba121145/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50px" />
