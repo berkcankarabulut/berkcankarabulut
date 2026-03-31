@@ -28,7 +28,7 @@
     <td colspan="2" align="center">
       <table width="100%">
         <tr>
-          <td colspan="2" align="center"><h3>📱 Live Games 📱</h3></td>
+          <td colspan="2" align="center"><h3>📱 Worked on 📱</h3></td>
           <td colspan="2" align="center"><h3>🌍 For Other Games 🌍</h3></td>
         </tr>
         <tr>
