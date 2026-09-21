@@ -5,12 +5,9 @@
     <td align="left">
       <ul> 
            <br><li>🎯 <b>Game Developer</b> with <b>5+ years of experience</b>, specializing in <b>game development, performance optimization, and URP shaders</b>.</li>
-          <br> <li>🛠️ Developed <b>50+ games</b> and played an active role in <b>LiveOps games</b>.</li> 
+          <br> <li>🛠️ Developed <b>100+ games</b> and played an active role in <b>LiveOps games</b>.</li> 
       </ul>     
-         <br>
-        <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcankarabulut&layout=compact&langs_count=6&theme=dark&card_width=600" alt="Top Langs" />
-        </p> 
+         <br> 
          <p align="center">            
           <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> 
           <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
